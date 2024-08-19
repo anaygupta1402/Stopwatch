@@ -15,3 +15,4 @@ Technologies Used:
 1) HTML: Forms the structural foundation of the app.
 2) CSS: Defines the styling and layout for a clean, modern design.
 3) JavaScript: Implements the timing logic and interactive features of the app.
+![Image 2](https://github.com/user-attachments/assets/81687938-605e-465d-b431-9ff15356f78d)
